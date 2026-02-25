@@ -4,7 +4,7 @@ var accountPassword = "12345"
 accountCity = "Jaipur"
 let accountState;
 
-// accountId = 2 // not allowed
+// accountId = 2 // not allowed because const cant be redeclared again
 
 
 accountEmail = "hc@hc.com"

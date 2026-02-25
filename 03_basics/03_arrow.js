@@ -17,7 +17,7 @@ const user = {
 
 // function chai(){
 //     let username = "hitesh"
-//     console.log(this.username);
+//     console.log(this);
 // }
 
 // chai()
@@ -27,10 +27,10 @@ const user = {
 //     console.log(this.username);
 // }
 
-const chai =  () => {
-    let username = "hitesh"
-    console.log(this);
-}
+// const chai =  () => {
+//     let username = "hitesh"
+//     console.log(this);
+// }
 
 
 // chai()

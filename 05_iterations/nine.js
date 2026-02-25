@@ -13,19 +13,19 @@ console.log(myTotal);
 const shoppingCart = [
     {
         itemName: "js course",
-        price: 2999
+        price: 1000
     },
     {
         itemName: "py course",
-        price: 999
+        price: 1000
     },
     {
         itemName: "mobile dev course",
-        price: 5999
+        price: 1000
     },
     {
         itemName: "data science course",
-        price: 12999
+        price: 1000
     },
 ]
 
